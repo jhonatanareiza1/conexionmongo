@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(33, 27, 75);
+    color: antiquewhite;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+h1 {
+    color: rgb(14, 124, 14);
+    align-items: center;
+    font-size: 5rem;
+
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.formularioInicioSesion {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 1.2rem;
+}
+
+.cajaInicio {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+
+}
+
+.register {
+    color: aliceblue;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
